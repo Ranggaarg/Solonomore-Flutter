@@ -1,0 +1,18 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="paint0_linear_2381_4068" x1="4.66669" y1="28" x2="51.3334" y2="28" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5D01"/>
+<stop offset="1" stop-color="#F58634"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2381_4068" x1="25.41" y1="26.4717" x2="38.4206" y2="26.4717" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5D01"/>
+<stop offset="1" stop-color="#F58634"/>
+</linearGradient>
+</defs>
+<g id="vuesax/bulk/clock">
+<g id="clock">
+<path id="Vector" opacity="0.4" d="M28 51.3333C40.8867 51.3333 51.3334 40.8866 51.3334 28C51.3334 15.1133 40.8867 4.66666 28 4.66666C15.1134 4.66666 4.66669 15.1133 4.66669 28C4.66669 40.8866 15.1134 51.3333 28 51.3333Z" fill="url(#paint0_linear_2381_4068)"/>
+<path id="Vector_2" d="M36.6566 37.17C36.3533 37.17 36.05 37.1 35.77 36.9133L28.5366 32.5967C26.74 31.5233 25.41 29.1667 25.41 27.09V17.5233C25.41 16.5667 26.2033 15.7733 27.16 15.7733C28.1166 15.7733 28.91 16.5667 28.91 17.5233V27.09C28.91 27.93 29.61 29.1667 30.3333 29.5867L37.5666 33.9033C38.4066 34.3933 38.6633 35.4667 38.1733 36.3067C37.8233 36.8667 37.24 37.17 36.6566 37.17Z" fill="url(#paint1_linear_2381_4068)"/>
+</g>
+</g>
+</svg>
